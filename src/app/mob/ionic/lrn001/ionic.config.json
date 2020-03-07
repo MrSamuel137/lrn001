@@ -1,0 +1,7 @@
+{
+  "name": "lrn001",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
